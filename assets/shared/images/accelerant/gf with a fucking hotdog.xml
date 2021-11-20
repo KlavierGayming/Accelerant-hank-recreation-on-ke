@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf with a fucking hotdog.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf dance left0000" x="0" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance left0001" x="0" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance left0002" x="238" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance left0003" x="238" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance left0004" x="476" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance left0005" x="476" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance left0006" x="714" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance left0007" x="714" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance left0008" x="952" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance left0009" x="952" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance left0010" x="1190" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance left0011" x="1190" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance left0012" x="1190" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance left0013" x="1190" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance right0000" x="0" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance right0001" x="0" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance right0002" x="1428" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance right0003" x="1428" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance right0004" x="1666" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance right0005" x="1666" y="0" width="238" height="325"/>
+	<SubTexture name="gf dance right0006" x="0" y="325" width="238" height="325"/>
+	<SubTexture name="gf dance right0007" x="0" y="325" width="238" height="325"/>
+	<SubTexture name="gf dance right0008" x="238" y="325" width="238" height="325"/>
+	<SubTexture name="gf dance right0009" x="238" y="325" width="238" height="325"/>
+	<SubTexture name="gf dance right0010" x="476" y="325" width="238" height="325"/>
+	<SubTexture name="gf dance right0011" x="476" y="325" width="238" height="325"/>
+	<SubTexture name="gf dance right0012" x="714" y="325" width="238" height="325"/>
+	<SubTexture name="gf dance right0013" x="714" y="325" width="238" height="325"/>
+	<SubTexture name="gf dance right0014" x="952" y="325" width="238" height="325"/>
+	<SubTexture name="gf dance right0015" x="952" y="325" width="238" height="325"/>
+	<SubTexture name="gf walk0000" x="1190" y="325" width="234" height="307"/>
+	<SubTexture name="gf walk0001" x="1190" y="325" width="234" height="307"/>
+	<SubTexture name="gf walk0002" x="1424" y="325" width="234" height="307"/>
+	<SubTexture name="gf walk0003" x="1424" y="325" width="234" height="307"/>
+	<SubTexture name="gf walk0004" x="1658" y="325" width="234" height="307"/>
+	<SubTexture name="gf walk0005" x="1658" y="325" width="234" height="307"/>
+	<SubTexture name="gf walk0006" x="0" y="650" width="234" height="307"/>
+	<SubTexture name="gf walk0007" x="0" y="650" width="234" height="307"/>
+	<SubTexture name="gf walk0008" x="234" y="650" width="234" height="307"/>
+	<SubTexture name="gf walk0009" x="234" y="650" width="234" height="307"/>
+</TextureAtlas>

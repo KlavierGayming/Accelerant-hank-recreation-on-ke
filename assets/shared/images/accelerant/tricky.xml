@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tricky_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TRICKY DOWN0000" x="0" y="0" width="555" height="460"/>
+	<SubTexture name="TRICKY DOWN0001" x="0" y="0" width="555" height="460"/>
+	<SubTexture name="TRICKY DOWN0002" x="555" y="0" width="555" height="460"/>
+	<SubTexture name="TRICKY DOWN0003" x="555" y="0" width="555" height="460"/>
+	<SubTexture name="TRICKY DOWN0004" x="1110" y="0" width="555" height="460"/>
+	<SubTexture name="TRICKY DOWN0005" x="1110" y="0" width="555" height="460"/>
+	<SubTexture name="TRICKY DOWN0006" x="1665" y="0" width="555" height="460"/>
+	<SubTexture name="TRICKY DOWN0007" x="1665" y="0" width="555" height="460"/>
+	<SubTexture name="TRICKY FALL0000" x="2220" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0001" x="2220" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0002" x="2867" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0003" x="2867" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0004" x="3514" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0005" x="3514" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0006" x="4161" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0007" x="4161" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0008" x="4808" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0009" x="4808" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0010" x="4808" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0011" x="4808" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0012" x="4808" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0013" x="4808" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0014" x="4808" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0015" x="4808" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0016" x="4808" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0017" x="4808" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0018" x="4808" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY FALL0019" x="4808" y="0" width="647" height="689"/>
+	<SubTexture name="TRICKY IDLE0000" x="5455" y="0" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0001" x="5455" y="0" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0002" x="6000" y="0" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0003" x="6000" y="0" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0004" x="6545" y="0" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0005" x="6545" y="0" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0006" x="7090" y="0" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0007" x="7090" y="0" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0008" x="7635" y="0" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0009" x="7635" y="0" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0010" x="0" y="689" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0011" x="0" y="689" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0012" x="545" y="689" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0013" x="545" y="689" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0014" x="1090" y="689" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0015" x="1090" y="689" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0016" x="1635" y="689" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0017" x="1635" y="689" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0018" x="2180" y="689" width="545" height="449"/>
+	<SubTexture name="TRICKY IDLE0019" x="2180" y="689" width="545" height="449"/>
+	<SubTexture name="TRICKY LEFT0000" x="2725" y="689" width="539" height="456"/>
+	<SubTexture name="TRICKY LEFT0001" x="2725" y="689" width="539" height="456"/>
+	<SubTexture name="TRICKY LEFT0002" x="3264" y="689" width="539" height="456"/>
+	<SubTexture name="TRICKY LEFT0003" x="3264" y="689" width="539" height="456"/>
+	<SubTexture name="TRICKY LEFT0004" x="3803" y="689" width="539" height="456"/>
+	<SubTexture name="TRICKY LEFT0005" x="3803" y="689" width="539" height="456"/>
+	<SubTexture name="TRICKY LEFT0006" x="4342" y="689" width="539" height="456"/>
+	<SubTexture name="TRICKY LEFT0007" x="4342" y="689" width="539" height="456"/>
+	<SubTexture name="TRICKY LEFT0008" x="4881" y="689" width="539" height="456"/>
+	<SubTexture name="TRICKY LEFT0009" x="4881" y="689" width="539" height="456"/>
+	<SubTexture name="TRICKY LEFT0010" x="5420" y="689" width="539" height="456"/>
+	<SubTexture name="TRICKY LEFT0011" x="5420" y="689" width="539" height="456"/>
+	<SubTexture name="TRICKY LEFT0012" x="5959" y="689" width="539" height="456"/>
+	<SubTexture name="TRICKY LEFT0013" x="5959" y="689" width="539" height="456"/>
+	<SubTexture name="TRICKY RIGHT0000" x="6498" y="689" width="607" height="359" frameX="0" frameY="0" frameWidth="607" frameHeight="399"/>
+	<SubTexture name="TRICKY RIGHT0001" x="6498" y="689" width="607" height="359" frameX="0" frameY="0" frameWidth="607" frameHeight="399"/>
+	<SubTexture name="TRICKY RIGHT0002" x="7105" y="689" width="607" height="387" frameX="0" frameY="0" frameWidth="607" frameHeight="399"/>
+	<SubTexture name="TRICKY RIGHT0003" x="7105" y="689" width="607" height="387" frameX="0" frameY="0" frameWidth="607" frameHeight="399"/>
+	<SubTexture name="TRICKY RIGHT0004" x="0" y="1145" width="607" height="399"/>
+	<SubTexture name="TRICKY RIGHT0005" x="0" y="1145" width="607" height="399"/>
+	<SubTexture name="TRICKY RIGHT0006" x="607" y="1145" width="607" height="399"/>
+	<SubTexture name="TRICKY RIGHT0007" x="607" y="1145" width="607" height="399"/>
+	<SubTexture name="TRICKY RIGHT0008" x="1214" y="1145" width="600" height="333" frameX="0" frameY="0" frameWidth="607" frameHeight="399"/>
+	<SubTexture name="TRICKY RIGHT0009" x="1214" y="1145" width="600" height="333" frameX="0" frameY="0" frameWidth="607" frameHeight="399"/>
+	<SubTexture name="TRICKY RIGHT0010" x="1814" y="1145" width="607" height="344" frameX="0" frameY="0" frameWidth="607" frameHeight="399"/>
+	<SubTexture name="TRICKY RIGHT0011" x="1814" y="1145" width="607" height="344" frameX="0" frameY="0" frameWidth="607" frameHeight="399"/>
+	<SubTexture name="TRICKY RIGHT0012" x="2421" y="1145" width="600" height="318" frameX="0" frameY="0" frameWidth="607" frameHeight="399"/>
+	<SubTexture name="TRICKY RIGHT0013" x="2421" y="1145" width="600" height="318" frameX="0" frameY="0" frameWidth="607" frameHeight="399"/>
+	<SubTexture name="TRICKY SCREAM0000" x="3021" y="1145" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0001" x="3021" y="1145" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0002" x="3776" y="1145" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0003" x="3776" y="1145" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0004" x="4531" y="1145" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0005" x="4531" y="1145" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0006" x="5286" y="1145" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0007" x="5286" y="1145" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0008" x="6041" y="1145" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0009" x="6041" y="1145" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0010" x="6796" y="1145" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0011" x="6796" y="1145" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0012" x="0" y="2062" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0013" x="0" y="2062" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0014" x="755" y="2062" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0015" x="755" y="2062" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0016" x="0" y="2062" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0017" x="0" y="2062" width="755" height="917"/>
+	<SubTexture name="TRICKY SCREAM0018" x="0" y="2062" width="755" height="917"/>
+	<SubTexture name="TRICKY UP0000" x="1510" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0001" x="1510" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0002" x="2009" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0003" x="2009" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0004" x="2508" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0005" x="2508" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0006" x="3007" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0007" x="3007" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0008" x="3007" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0009" x="3007" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0010" x="3506" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0011" x="3506" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0012" x="3506" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0013" x="3506" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0014" x="4005" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0015" x="4005" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0016" x="4504" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0017" x="4504" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0018" x="4504" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0019" x="4504" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0020" x="5003" y="2062" width="499" height="449"/>
+	<SubTexture name="TRICKY UP0021" x="5003" y="2062" width="499" height="449"/>
+</TextureAtlas>

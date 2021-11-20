@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hankIdle.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hank Idle0000" x="0" y="0" width="427" height="595"/>
+	<SubTexture name="Hank Idle0001" x="0" y="0" width="427" height="595"/>
+	<SubTexture name="Hank Idle0002" x="527" y="0" width="427" height="595"/>
+	<SubTexture name="Hank Idle0003" x="527" y="0" width="427" height="595"/>
+	<SubTexture name="Hank Idle0004" x="1054" y="0" width="427" height="595"/>
+	<SubTexture name="Hank Idle0005" x="1054" y="0" width="427" height="595"/>
+	<SubTexture name="Hank Idle0006" x="1581" y="0" width="427" height="595"/>
+	<SubTexture name="Hank Idle0007" x="1581" y="0" width="427" height="595"/>
+	<SubTexture name="Hank Idle0008" x="0" y="695" width="427" height="595"/>
+	<SubTexture name="Hank Idle0009" x="0" y="695" width="427" height="595"/>
+	<SubTexture name="Hank Idle0010" x="527" y="695" width="427" height="595"/>
+	<SubTexture name="Hank Idle0011" x="527" y="695" width="427" height="595"/>
+	<SubTexture name="Hank Idle0012" x="1054" y="695" width="427" height="595"/>
+	<SubTexture name="Hank Idle0013" x="1054" y="695" width="427" height="595"/>
+</TextureAtlas>

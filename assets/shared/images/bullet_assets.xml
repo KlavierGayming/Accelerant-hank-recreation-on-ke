@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BULLET_ASSETS.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue arrow0000" x="0" y="0" width="67" height="99"/>
+	<SubTexture name="purple arrow0000" x="67" y="0" width="99" height="67"/>
+	<SubTexture name="red arrow0000" x="0" y="99" width="99" height="67"/>
+	<SubTexture name="green arrow0000" x="99" y="99" width="67" height="99"/>
+</TextureAtlas>
