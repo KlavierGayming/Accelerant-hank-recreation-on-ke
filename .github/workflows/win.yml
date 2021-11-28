@@ -28,8 +28,6 @@ jobs:
             %HAXELIB_ROOT%
           key: ${{ runner.os }}
           
-      - name: Setup Windows SDK
-        uses: GuillaumeFalourd/setup-windows10-sdk-action@v1
                 
           
 
@@ -55,6 +53,7 @@ jobs:
           haxelib install actuate 
           haxelib install newgrounds
           haxelib install systools
+          haxelib git flixel-textureatlas https://github.com/Smokey555/Flixel-TextureAtlas
           haxelib list
           
       - name: Build Log
