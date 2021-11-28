@@ -63,5 +63,5 @@ jobs:
           
       - uses: actions/upload-artifact@v2
         with:
-          name: Android Build
+          name: Windows
           path: export/release/windows/bin
