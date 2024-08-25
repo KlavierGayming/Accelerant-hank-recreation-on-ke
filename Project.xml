@@ -89,7 +89,6 @@
 	<haxelib name="flixel-ui" />
 	<haxelib name="newgrounds" unless="mobile"/>
 	<haxelib name="faxe" if='switch'/>
-	<haxelib name="polymod"/>
 	<haxelib name="discord_rpc" if="windows"/>
 	<haxelib name="linc_luajit" if="windows"/>
 	<haxelib name="flixel-textureatlas"/>
